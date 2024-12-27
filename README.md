@@ -1,2 +1,4 @@
-# site-portfolio-cggh
-Esse é um projeto de portfólio com HTML, CSS e JAVASCRIPT
+# Bem vindo ao curso Github
+
+## Módulos
+Entendendo oq é git, Aprendendo sobre branches e repositórios.
